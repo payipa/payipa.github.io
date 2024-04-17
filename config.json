@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"爬一爬的博客",
+    "subTitle":"爬虫不需要介绍",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "onePageListNum":15,
+    "bottomText":"转载请注明出处"
 }
